@@ -1,0 +1,13 @@
+D:\stud\SplayTree\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.exe
+D:\stud\SplayTree\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.deps.json
+D:\stud\SplayTree\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.runtimeconfig.json
+D:\stud\SplayTree\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.runtimeconfig.dev.json
+D:\stud\SplayTree\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.dll
+D:\stud\SplayTree\SplayTree\bin\Debug\netcoreapp3.1\SplayTree.pdb
+D:\stud\SplayTree\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.csprojAssemblyReference.cache
+D:\stud\SplayTree\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.AssemblyInfoInputs.cache
+D:\stud\SplayTree\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.AssemblyInfo.cs
+D:\stud\SplayTree\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.csproj.CoreCompileInputs.cache
+D:\stud\SplayTree\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.dll
+D:\stud\SplayTree\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.pdb
+D:\stud\SplayTree\SplayTree\obj\Debug\netcoreapp3.1\SplayTree.genruntimeconfig.cache
