@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Text;
 
-using static SplayTree.Tree;
-
 namespace SplayTree
 {
 	class Program

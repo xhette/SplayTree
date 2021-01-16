@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "SplayTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SplayTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SplayTree.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SplayTree/1.0.0": {
+      "type": "project",
+      "path": "../SplayTree/SplayTree.csproj",
+      "msbuildProject": "../SplayTree/SplayTree.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "SplayTree >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\xhett\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\stud\\SplayTree\\SplayTree\\SplayTree.csproj": {
+              "projectPath": "D:\\stud\\SplayTree\\SplayTree\\SplayTree.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -63,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
