@@ -21,3 +21,4 @@ D:\stud\SplayTree\SplayTreeInterface\obj\Debug\netcoreapp3.1\SplayTreeInterface.
 D:\stud\SplayTree\SplayTreeInterface\obj\Debug\netcoreapp3.1\SplayTreeInterface.AddForm.resources
 D:\stud\SplayTree\SplayTreeInterface\obj\Debug\netcoreapp3.1\SplayTreeInterface.DeleteForm.resources
 D:\stud\SplayTree\SplayTreeInterface\obj\Debug\netcoreapp3.1\SplayTreeInterface.SearchForm.resources
+D:\stud\SplayTree\SplayTreeInterface\obj\Debug\netcoreapp3.1\SplayTreeInterface.GraphLarge.resources

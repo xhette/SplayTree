@@ -81,5 +81,11 @@ namespace SplayTreeInterface
 			tree = new Tree();
 			Draw();
 		}
+
+		private void pictureBox1_Click(object sender, EventArgs e)
+		{
+			GraphLarge graph = new GraphLarge(drawing.Bitmap);
+			graph.Show();
+		}
 	}
 }
