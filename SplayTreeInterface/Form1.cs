@@ -22,8 +22,8 @@ namespace SplayTreeInterface
 			InitializeComponent();
 			tree = new Tree();
 
-			int[] values = { 8, 6, 5, 1, 4, 12, 3, 16, 10, 9, 20, 7, 13 };
-			tree.Insert(values);
+			//int[] values = { 8, 6, 5, 1, 4, 12, 3, 16, 10, 9, 20, 7, 13 };
+			//tree.Insert(values);
 
 			Draw();
 		}
