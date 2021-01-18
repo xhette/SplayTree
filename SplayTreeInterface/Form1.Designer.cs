@@ -53,6 +53,7 @@ namespace SplayTreeInterface
 			// pictureBox1
 			// 
 			this.pictureBox1.BackColor = System.Drawing.SystemColors.Window;
+			this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.pictureBox1.Location = new System.Drawing.Point(-1, -1);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(668, 426);

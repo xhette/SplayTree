@@ -52,7 +52,8 @@ namespace SplayTree
 					}
 					else
 					{
-						throw new Exception ("Данное значение уже содержится в дереве");
+						return;
+						//throw new Exception ("Данное значение уже содержится в дереве");
 					}
 				}
 
@@ -87,7 +88,8 @@ namespace SplayTree
 						}
 						else
 						{
-							throw new Exception("Значение не принадлежит дереву");
+							return;
+							//throw new Exception("Значение не принадлежит дереву");
 						}
 					}
 					else if (x > result.Value)
@@ -98,7 +100,8 @@ namespace SplayTree
 						}
 						else
 						{
-							throw new Exception("Значение не принадлежит дереву");
+							return;
+							//throw new Exception("Значение не принадлежит дереву");
 						}
 					}
 				}
