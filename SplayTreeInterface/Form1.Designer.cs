@@ -132,7 +132,7 @@ namespace SplayTreeInterface
 			this.MinimumSize = new System.Drawing.Size(818, 497);
 			this.Name = "Form1";
 			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-			this.Text = "Косые деревья";
+			this.Text = "Скошенные деревья";
 			this.panel1.ResumeLayout(false);
 			this.panel1.PerformLayout();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
